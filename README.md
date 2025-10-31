@@ -63,6 +63,7 @@ FeedYourSeed/
 ├── package.json                  # Dependencies and scripts
 └── package-lock.json             # Dependency lock file
 
+---
 
 # 👨‍💻 Author
 Mohanad Tarek (Honda)
