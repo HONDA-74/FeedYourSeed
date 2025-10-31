@@ -36,7 +36,7 @@ FeedYourSeed/
 │
 ├── src/                          # Main source folder
 │   ├── db/                       # Database connection and configuration
-    │   └───models                # Database Models
+│   ├── models/                   # Database Models
 │   │
 │   ├── middlewares/              # Express middlewares (auth, validation, etc.)
 │   │
@@ -62,6 +62,7 @@ FeedYourSeed/
 ├── index.js                      # App entry point
 ├── package.json                  # Dependencies and scripts
 └── package-lock.json             # Dependency lock file
+
 
 # 👨‍💻 Author
 Mohanad Tarek (Honda)
