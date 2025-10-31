@@ -68,7 +68,7 @@ FeedYourSeed/
 ---
 
 # 👨‍💻 Author
-Mohanad Tarek (Honda)
-🎓 Computer Science Student — Tanta University
-💼 Aspiring Backend Developer , Frondend developer , Full Stack developer
-📧 Mohanadtarek742203@gmail.com
+- Mohanad Tarek (Honda)
+- 🎓 Computer Science Student — Tanta University
+- 💼 Aspiring Backend Developer , Frondend developer , Full Stack developer
+- 📧 Mohanadtarek742203@gmail.com
