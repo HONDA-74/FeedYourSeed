@@ -30,6 +30,7 @@ The platform also includes an e-commerce feature for buying and selling plants o
 ---
 
 ## 📁 Folder Structure
+```
 FeedYourSeed/
 │
 ├── public/                       # Public assets (images, docs, etc.)
@@ -62,6 +63,7 @@ FeedYourSeed/
 ├── index.js                      # App entry point
 ├── package.json                  # Dependencies and scripts
 └── package-lock.json             # Dependency lock file
+```
 
 ---
 
